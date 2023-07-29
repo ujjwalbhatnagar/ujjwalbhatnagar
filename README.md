@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ujjwalbhatnagar
-- 🌱 I’m currently working on AGI.
+- 🌱 I’m currently working on ML in quant finance.
 - 📫 How to reach me mailto:ujjwalbhatnagar18@gmail.com
 
 <!---
