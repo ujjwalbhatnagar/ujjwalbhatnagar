@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ujjwalbhatnagar
-- 🌱 I’m currently working in product management. Also, I do algo trading on cryptocurrency platform Numerai.
+- 🌱 I’m currently working in project management. Also, I do algo trading on cryptocurrency platform Numerai.
 - 📫 How to reach me mailto:ujjwalbhatnagar18@gmail.com
 
 <!---
